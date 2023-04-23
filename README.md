@@ -2,7 +2,7 @@
 
 I'm a programmer with experience in Python and SQL, always seeking exciting new projects to work on. My skills include process automation, data analysis, and developing creative solutions. I also have experience integrating third-party APIs. 
 
-- 🔭 I’m currently working on [Project Name](https://github.com/yourusername/projectname)
+- 🔭  I'm currently working on a database management and exploration tool called "DeepDiveDB"
 - 🌱 I’m currently learning [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/)
 - 💬 Ask me about anything related to Python or SQL!
 - 📫 How to reach me: brunocamps90@gmail.com
